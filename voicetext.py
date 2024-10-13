@@ -1,3 +1,4 @@
+#youtube link for tutorial: https://youtu.be/IrzKoC0lzuY
 
 from dotenv import load_dotenv
 
